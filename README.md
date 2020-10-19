@@ -14,5 +14,5 @@ Then the ROI of each frame is pixelated and then pasted back to the original fra
 
 Then all the frames are stuck back together to create the ‘censored video’.
 
-[uncensored images](image12 uncensored.jpg)
+[uncensored images](image12uncensored.jpg)
 [censored images](image12.jpg)
